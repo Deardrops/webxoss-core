@@ -1,3 +1,4 @@
 [submodule "webxoss-client"]
 	path = webxoss-client
 	url = https://github.com/Deardrops/webxoss-client.git
+	branch = WX16
